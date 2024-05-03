@@ -1,5 +1,6 @@
 {
   "name": "home-loan-calculator",
+  "homepage": "https://myusername.github.io/home-loan-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.0",
     "bootstrap": "^5.3.3",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.3.1",
@@ -22,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
