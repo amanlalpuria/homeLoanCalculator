@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/home-loan-calculator/static/css/main.db62923b.css",
+    "main.js": "/home-loan-calculator/static/js/main.d6be7d2c.js",
+    "index.html": "/home-loan-calculator/index.html",
+    "main.db62923b.css.map": "/home-loan-calculator/static/css/main.db62923b.css.map",
+    "main.d6be7d2c.js.map": "/home-loan-calculator/static/js/main.d6be7d2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.d6be7d2c.js"
+  ]
+}
