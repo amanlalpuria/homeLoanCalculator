@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/home-loan-calculator/static/css/main.db62923b.css",
-    "main.js": "/home-loan-calculator/static/js/main.d6be7d2c.js",
-    "index.html": "/home-loan-calculator/index.html",
-    "main.db62923b.css.map": "/home-loan-calculator/static/css/main.db62923b.css.map",
-    "main.d6be7d2c.js.map": "/home-loan-calculator/static/js/main.d6be7d2c.js.map"
+    "main.css": "/homeLoanCalculator/static/css/main.db62923b.css",
+    "main.js": "/homeLoanCalculator/static/js/main.d6be7d2c.js",
+    "index.html": "/homeLoanCalculator/index.html",
+    "main.db62923b.css.map": "/homeLoanCalculator/static/css/main.db62923b.css.map",
+    "main.d6be7d2c.js.map": "/homeLoanCalculator/static/js/main.d6be7d2c.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
